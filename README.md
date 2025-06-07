@@ -1,6 +1,7 @@
 Programação Orientada a Objetos (POO) com Java - Atividade
 
 PRATICANDO CLASSE E OBJETOS EM JAVA
+
 Crie uma classe Avaliacao, com três atributos reais chamados nota1, nota2, nota3, e crie dois métodos para calcular e retornar diferentes tipos de média:
 • Média aritmética
 • Média ponderada (pesos 2, 3 e 4)
